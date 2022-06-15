@@ -1,4 +1,9 @@
+![sale](https://user-images.githubusercontent.com/88803371/173932642-45349ff1-2398-4a13-b0e1-802c7ad124f0.png)
+
 ### Hi there 👋
+
+I'm a full-stack developer from Virginia looking to do some projects! Want to collaborate or need a hand? Reach out at my email!
+samjonesdeveloper@gmail.com
 
 <!--
 **SamJones1995/SamJones1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
