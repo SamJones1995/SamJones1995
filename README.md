@@ -9,16 +9,28 @@ I'm a full-stack developer from Virginia looking to do some projects! Want to co
 samjonesdeveloper@gmail.com
 
 ## Skills
-
- - React
- - React Redux
+<div>
+ 
+ - React  
+ 
+ - React Redux   
+ 
+ - Angular                                 
+                                         
+ - HTML5                                  
+ - CSS                                    
+ - NodeJS                                
+</div>
+<div>
+ 
+ - Java
+ - Spring Framework
+ - SQL Databases 
+ 
  - JavaScript
-          
- - CSS
- - HTML5
- - NodeJS
-
-
+ - TypeScript
+ - AWS 
+ </div>
 <!--
 **SamJones1995/SamJones1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
